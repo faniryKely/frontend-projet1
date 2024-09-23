@@ -6,7 +6,7 @@ import HomePage from "./user";
 export default function Home() {
   return (
     <>
-      <div>
+      <div className={styles.main}>
 
         <h1> Bienvenue sur patrimoine interface</h1>
       </div>
